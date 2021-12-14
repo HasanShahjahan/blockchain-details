@@ -7,8 +7,8 @@ Api for getting blockchain block and transaction details
 * [Go](https://golang.org/dl/): `brew install go`
 * Install docker
 * Setup `go` folder in your home directory: `/Users/<user_id>/go/src/github.com/Shahjahan-Miah-coding-challenge`. So, `go env` should show `GOPATH="/Users/<user_id>/go"`
-* Clone `NuriCareers/Shahjahan-Miah-coding-challenge` repository in `/Users/<user_id>/go/src/github.com/Shahjahan-Miah-coding-challenge`: `git clone <repo_url>`
-* After cloning, the `go.mod` file should be found in this directory `/Users/<user_id>/go/src/github.com/nuri/Shahjahan-Miah-coding-challenge/go.mod`
+* Clone `Shahjahan-Miah-coding-challenge` repository in `/Users/<user_id>/go/src/github.com/Shahjahan-Miah-coding-challenge`: `git clone <repo_url>`
+* After cloning, the `go.mod` file should be found in this directory `/Users/<user_id>/go/src/github.com/Shahjahan-Miah-coding-challenge/go.mod`
 * Add `/Users/<user_id>/go/bin` in environment variable `PATH` if it is not already there.
 
 ## Running the App 
