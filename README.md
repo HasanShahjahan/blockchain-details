@@ -1,4 +1,4 @@
-# Nuri: Getting Blockchain Data
+# Getting Blockchain Data
 
 Api for getting blockchain block and transaction details
 
